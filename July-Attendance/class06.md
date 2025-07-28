@@ -7,3 +7,12 @@
 ### Solomon Okomowho
 
 #### Present
+
+#### Present
+
+## Student
+
+### Mije
+
+#### Present
+
