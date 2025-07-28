@@ -8,8 +8,6 @@
 
 #### Present
 
-#### Present
-
 ## Student
 
 ### Mije
