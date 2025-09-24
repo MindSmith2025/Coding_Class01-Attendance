@@ -30,11 +30,11 @@
 ### NOTE OF IMPERSONATOR
 #### Status: No Impersonator
 
-## Wednesday, 29th September 2025
+## Wednesday, 24th September 2025
 
 ## KOTR:
 ### Mije
-#### Status: Not Present
+#### Status: Present
 
 ## Students:
 
@@ -42,7 +42,7 @@
 #### Status: Not Present
 
 ### David
-#### Status: Not Present
+#### Status: Joined by 3/4 Class Time
 
 ### Efua
 #### Status: Not Present
