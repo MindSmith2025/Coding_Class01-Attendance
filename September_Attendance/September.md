@@ -2,21 +2,24 @@
 
 ## Teacher:
 ### EdenianKnight
-#### Status: Present
-
-## Wednesday, 24th September 2025
 
 ## KOTR:
 ### Hypertexter-On-Code
-#### Status: Present T= OT
+
+# DATES:
+
+## TUESDAY, 23RD SEPTEMBER 2025 (EXTRA CLASS)
 
 ## Students:
 
+### Hypertexter-On-Code
+#### Status: Present
+
 ### Max-Techno-Wizard
-#### Status: Not Present
+#### Status: Present
 
 ### Davidoja1
-#### Status: Present T= 3/4
+#### Status: Present
 
 ### Shimmering-Siren
 #### Status: Not Present
@@ -27,5 +30,55 @@
 ### Trixie-Gina
 #### Status: Not Present
 
-### NOTE OF IMPERSONATOR
-#### Status: No Impersonator
+### NOTE OF IMP
+#### Status: Not Present
+
+## WEDNESDAY, 24TH SEPTEMBER 2025
+
+## Students:
+
+### Hypertexter-On-Code
+#### Status: Present
+
+### Max-Techno-Wizard
+#### Status: Not Present
+
+### Davidoja1
+#### Status: Present
+
+### Shimmering-Siren
+#### Status: Not Present
+
+### Iamasigma-123
+#### Status: Not Present
+
+### Trixie-Gina
+#### Status: Not Present
+
+### NOTE OF IMP
+#### Status: Not Present
+
+## MONDAY, 29TH SEPTEMBER 2025
+
+## Students:
+
+### Hypertexter-On-Code
+#### Status: Present
+
+### Max-Techno-Wizard
+#### Status: Not Present
+
+### Davidoja1
+#### Status: Present
+
+### Shimmering-Siren
+#### Status: Not Present
+
+### Iamasigma-123
+#### Status: Not Present
+
+### Trixie-Gina
+#### Status: Not Present
+
+### NOTE OF IMP
+#### Status: Not Present
