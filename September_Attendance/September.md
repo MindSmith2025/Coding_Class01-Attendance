@@ -168,7 +168,7 @@
 
 <!-- DATE -->
 
-## MONDAY, 22ND SEPTEMBER 2025
+## MONDAY, 22ND SEPTEMBER 2025 (NO CLASS)
 
 ## Students:
 
@@ -179,19 +179,19 @@
 #### Status: Present
 
 ### Davidoja1
-#### Status: Not Present
+#### Status: Present
 
 ### Shimmering-Siren
-#### Status: Present
+#### Status: Not Present
 
 ### Iamasigma-123
-#### Status: Present
+#### Status: Not Present
 
 ### Trixie-Gina
-#### Status: Present
+#### Status: Not Present
 
 ### NOTE OF IMP
-#### Status: ?
+#### Status: Not Present
 
 <!-- DATE -->
 
@@ -256,7 +256,7 @@
 #### Status: Present
 
 ### Davidoja1
-#### Status: Present
+#### Status: Not Present
 
 ### Shimmering-Siren
 #### Status: Not Present
