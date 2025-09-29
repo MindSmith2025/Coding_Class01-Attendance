@@ -8,6 +8,193 @@
 
 # DATES:
 
+## MONDAY, 1ST SEPTEMBER 2025
+
+## Students:
+
+### Hypertexter-On-Code
+#### Status: Present
+
+### Max-Techno-Wizard
+#### Status: Present
+
+### Davidoja1
+#### Status: Not Present
+
+### Shimmering-Siren
+#### Status: Present
+
+### Iamasigma-123
+#### Status: Present
+
+### Trixie-Gina
+#### Status: Present
+
+### NOTE OF IMP
+#### Status: ?
+
+<!-- DATE -->
+
+## WEDNESDAY, 3RD SEPTEMBER 2025
+
+## Students:
+
+### Hypertexter-On-Code
+#### Status: Present
+
+### Max-Techno-Wizard
+#### Status: Present
+
+### Davidoja1
+#### Status: Not Present
+
+### Shimmering-Siren
+#### Status: Present
+
+### Iamasigma-123
+#### Status: Present
+
+### Trixie-Gina
+#### Status: Present
+
+### NOTE OF IMP
+#### Status: ?
+
+## MONDAY, 8TH SEPTEMBER 2025
+
+## Students:
+
+### Hypertexter-On-Code
+#### Status: Present
+
+### Max-Techno-Wizard
+#### Status: Present
+
+### Davidoja1
+#### Status: Not Present
+
+### Shimmering-Siren
+#### Status: Present
+
+### Iamasigma-123
+#### Status: Present
+
+### Trixie-Gina
+#### Status: Present
+
+### NOTE OF IMP
+#### Status: ?
+
+<!-- DATE -->
+
+## WEDNESDAY, 10TH SEPTEMBER 2025
+
+## Students:
+
+### Hypertexter-On-Code
+#### Status: Present
+
+### Max-Techno-Wizard
+#### Status: Present
+
+### Davidoja1
+#### Status: Not Present
+
+### Shimmering-Siren
+#### Status: Present
+
+### Iamasigma-123
+#### Status: Present
+
+### Trixie-Gina
+#### Status: Present
+
+### NOTE OF IMP
+#### Status: ?
+
+<!-- DATE -->
+
+## MONDAY, 15TH SEPTEMBER 2025
+
+## Students:
+
+### Hypertexter-On-Code
+#### Status: Present
+
+### Max-Techno-Wizard
+#### Status: Present
+
+### Davidoja1
+#### Status: Not Present
+
+### Shimmering-Siren
+#### Status: Present
+
+### Iamasigma-123
+#### Status: Present
+
+### Trixie-Gina
+#### Status: Present
+
+### NOTE OF IMP
+#### Status: ?
+
+<!-- DATE -->
+
+## WEDNESDAY, 17TH SEPTEMBER 2025
+
+## Students:
+
+### Hypertexter-On-Code
+#### Status: Present
+
+### Max-Techno-Wizard
+#### Status: Present
+
+### Davidoja1
+#### Status: Not Present
+
+### Shimmering-Siren
+#### Status: Present
+
+### Iamasigma-123
+#### Status: Present
+
+### Trixie-Gina
+#### Status: Present
+
+### NOTE OF IMP
+#### Status: ?
+
+<!-- DATE -->
+
+## MONDAY, 22ND SEPTEMBER 2025
+
+## Students:
+
+### Hypertexter-On-Code
+#### Status: Present
+
+### Max-Techno-Wizard
+#### Status: Present
+
+### Davidoja1
+#### Status: Not Present
+
+### Shimmering-Siren
+#### Status: Present
+
+### Iamasigma-123
+#### Status: Present
+
+### Trixie-Gina
+#### Status: Present
+
+### NOTE OF IMP
+#### Status: ?
+
+<!-- DATE -->
+
 ## TUESDAY, 23RD SEPTEMBER 2025 (EXTRA CLASS)
 
 ## Students:
@@ -66,7 +253,7 @@
 #### Status: Present
 
 ### Max-Techno-Wizard
-#### Status: Not Present
+#### Status: Present
 
 ### Davidoja1
 #### Status: Present
