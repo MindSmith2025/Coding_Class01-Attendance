@@ -54,3 +54,214 @@
 
 ### NOTE OF IMP
 #### Status: Not Present
+
+<!-- MISSED DATE -->
+
+## MISSED - MONDAY, 6TH OF OCTOBER 2025
+
+## Students:
+
+### Hypertexter-On-Code
+#### Status: Present
+
+### Max-Techno-Wizard
+#### Status: Present
+
+### NO CN "ETHAN'
+#### Status: Present
+
+### Davidoja1
+#### Status: Not Present
+
+### Shimmering-Siren
+#### Status: Not Present
+
+### Iamasigma-123
+#### Status: Not Present
+
+### Trixie-Gina
+#### Status: Not Present
+
+### NOTE OF IMP
+#### Status: Not Present
+
+<!-- NEW DATE -->
+
+## MONDAY, 13TH OF OCTOBER 2025
+
+## Students:
+
+### Hypertexter-On-Code
+#### Status: Present
+
+### Max-Techno-Wizard
+#### Status: Present
+
+### NO CN "ETHAN'
+#### Status: Present
+
+### Davidoja1
+#### Status: Not Present
+
+### Shimmering-Siren
+#### Status: Not Present
+
+### Iamasigma-123
+#### Status: Not Present
+
+### Trixie-Gina
+#### Status: Not Present
+
+### NOTE OF IMP
+#### Status: Not Present
+
+<!-- NEW DATE -->
+
+## WEDNESDAY, 15TH OF OCTOBER 2025
+
+## Students:
+
+### Hypertexter-On-Code
+#### Status: Present
+
+### Max-Techno-Wizard
+#### Status: Present
+
+### NO CN "ETHAN'
+#### Status: Present
+
+### Davidoja1
+#### Status: Not Present
+
+### Shimmering-Siren
+#### Status: Not Present
+
+### Iamasigma-123
+#### Status: Not Present
+
+### Trixie-Gina
+#### Status: Not Present
+
+### NOTE OF IMP
+#### Status: Not Present
+
+<!-- NEW DATE -->
+
+## MONDAY, 2OTH OF OCTOBER 2025
+
+## Students:
+
+### Hypertexter-On-Code
+#### Status: Present
+
+### Max-Techno-Wizard
+#### Status: Present
+
+### NO CN "ETHAN'
+#### Status: Present
+
+### Davidoja1
+#### Status: Not Present
+
+### Shimmering-Siren
+#### Status: Present
+
+### Iamasigma-123
+#### Status: Present
+
+### Trixie-Gina
+#### Status: Present
+
+### NOTE OF IMP
+#### Status: Not Present
+
+<!-- NEW DATE -->
+
+## WEDNESDAY, 22ND OF OCTOBER 2025
+
+## Students:
+
+### Hypertexter-On-Code
+#### Status: Present
+
+### Max-Techno-Wizard
+#### Status: Present
+
+### NO CN "ETHAN'
+#### Status: Present
+
+### Davidoja1
+#### Status: Not Present
+
+### Shimmering-Siren
+#### Status: Present
+
+### Iamasigma-123
+#### Status: Present
+
+### Trixie-Gina
+#### Status: Present
+
+### NOTE OF IMP
+#### Status: Not Present
+
+<!-- NEW DATE -->
+
+## MONDAY, 27TH OF OCTOBER 2025
+
+## Students:
+
+### Hypertexter-On-Code
+#### Status: Present
+
+### Max-Techno-Wizard
+#### Status: Present
+
+### NO CN "ETHAN'
+#### Status: Present
+
+### Davidoja1
+#### Status: Not Present
+
+### Shimmering-Siren
+#### Status: Present
+
+### Iamasigma-123
+#### Status: Present
+
+### Trixie-Gina
+#### Status: Present
+
+### NOTE OF IMP
+#### Status: Not Present
+
+<!-- NEW DATE -->
+
+## MONDAY, 29TH OF OCTOBER 2025
+
+## Students:
+
+### Hypertexter-On-Code
+#### Status: Present
+
+### Max-Techno-Wizard
+#### Status: Present
+
+### NO CN "ETHAN'
+#### Status: ?Present
+
+### Davidoja1
+#### Status: Not Present
+
+### Shimmering-Siren
+#### Status: Present
+
+### Iamasigma-123
+#### Status: Not Present
+
+### Trixie-Gina
+#### Status: Present
+
+### NOTE OF IMP
+#### Status: Not Present
+
